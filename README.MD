@@ -1,12 +1,15 @@
 
 
 <h1 align="center">
-    <a href="#" alt="site do ecoleta"> DS Vendas </a>
+    <a href="https://dashsales.netlify.app/" alt=""> DS Vendas </a>
 </h1>
 
 <h3 align="center">
 	Analise o desempenho das suas vendas por diferentes perspectivas
+	
 </h3>
+
+
 
 <h4 align="center">
 	🚧   Em andamento 🚀 🚧
@@ -87,7 +90,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git@github.com:MarcosWinicios/dsvendas.git
 
 # Importe o projeto no STS na pasta back-end
 
@@ -105,7 +108,7 @@ Você pode acessar as respostas dos endpoints através do [Postman](https://www.
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git@github.com:MarcosWinicios/dsvendas.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd projeto-sds4
