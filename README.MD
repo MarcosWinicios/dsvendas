@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Um dashboard com informações sobre as vendas de cada vendedor 
+	Analise o desempenho das suas vendas por diferentes perspectivas
 </h3>
 
 <h4 align="center">
@@ -16,6 +16,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
+   * [Arquitetura](#-arquitetura)
    
    * [Layout](#-layout)
      
@@ -30,7 +31,8 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-DS Vendas - é um projeto simples onde é exibido um dashboard contendo informações sobre as vendas realizadas por um time de vendedores
+DS Vendas - é um simples projeto onde é exibido um dashboard contendo informações sobre as vendas realizadas por um time de vendedores.
+Estas informações são obtidas a partir de dados fornecidos por um BackEnd construído com Spring Boot.
 
 Projeto desenvolvido durante a **Semana Spring React 4** oferecida pela [DEVSUPERIOR](https://devsuperior.com.br/).
 
@@ -43,12 +45,23 @@ Projeto desenvolvido durante a **Semana Spring React 4** oferecida pela [DEVSUPE
   - [x] Tabela exibida com recurso de paginação
   
 ---
+## Arquitetura
+
+### Modelo conceitual
+![Image](https://github.com/MarcosWinicios/dsvendas/blob/main/documentation/class-diagram.png "Padrão camadas")
+
+### Padrão de camadas escolhido
+![Image](https://github.com/MarcosWinicios/dsvendas/blob/main/documentation/camadas.png "Padrão camadas")
+
 
 ## 🎨 Layout
 
 
-### Web
+### Home
+![Image](https://github.com/MarcosWinicios/dsvendas/blob/main/documentation/home.png)
 
+### Dashboard
+![Image](https://github.com/MarcosWinicios/dsvendas/blob/main/documentation/dashboard.png)
 
 
 ---
