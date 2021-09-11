@@ -16,16 +16,13 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#-funcionalidades)
+   
    * [Layout](#-layout)
-     * [Web](#web)
+     
    * [Como executar o projeto](#-como-executar-o-projeto)
-     * [Pré-requisitos](#pré-requisitos)
-     * [Rodando o Backend (servidor)](#user-content--rodando-o-backend-servidor)
-     * [Rodando a aplicação web (Frontend)](#user-content--rodando-a-aplicação-web-frontend)
+     
    * [Tecnologias](#-tecnologias)
-     * [Front-end](#user-content-website--react----typescript)
-     * [Back-end](#user-content-server--spring----java)
+     
    * [Autor](#-autor)
    
 <!--te-->
@@ -39,7 +36,7 @@ Projeto desenvolvido durante a **Semana Spring React 4** oferecida pela [DEVSUPE
 
 ---
 
-## ⚙️ Funcionalidades
+#### ⚙️ Funcionalidades
 
 - [x] Exibição das iformações em gráficos 
 - [x] Exibição das informações em tabelas
@@ -68,10 +65,11 @@ Este projeto é divido em duas partes:
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Java JDK 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html), 
-[Spring Tools Suite 4(STS)](https://spring.io/tools), [Yarn](https://classic.yarnpkg.com/en/)
+[Spring Tools Suite 4(STS)](https://spring.io/tools), [Yarn](https://classic.yarnpkg.com/en/).
+
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🎲 Rodando o Backend (servidor)
+#### 🎲 Rodando o Servidor (Backend)
 
 ```bash
 
@@ -129,7 +127,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 > Veja o arquivo  [package.json](https://github.com/MarcosWinicios/dsvendas/blob/main/front-end/package.json)
 
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**BackEnd**  ([Spring](https://spring.io/)  +  [Java](https://www.oracle.com/br/java/))
+#### **BackEnd**  ([Spring](https://spring.io/)  +  [Java](https://www.oracle.com/br/java/))
 
 -   **[Spring boot](https://spring.io/projects/spring-boot)**
 -   **[Spring Security](https://spring.io/projects/spring-security)**
