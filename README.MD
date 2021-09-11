@@ -12,7 +12,7 @@
 
 
 <h4 align="center">
-	🚧   Em andamento 🚀 🚧
+	🚧   Concluído 🚀 🚧
 </h4>
 
 Tabela de conteúdos
