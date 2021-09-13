@@ -39,6 +39,7 @@ Estas informações são obtidas a partir de dados fornecidos por um BackEnd con
 
 Projeto desenvolvido durante a **Semana Spring React 4** oferecida pela [DEVSUPERIOR](https://devsuperior.com.br/).
 
+- OBS.: Ao acessar a página do projeto, espere um momento até que os dados sejam carregados. Isto ocorre porque o plano gratuito do Heroku não mantém a API bem otimizada. 
 ---
 
 #### ⚙️ Funcionalidades
