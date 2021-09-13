@@ -166,7 +166,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://github.com/MarcosWinicios">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49327237?s=60&v=4" width="100px;" alt="Marcos Winicios"/>
+ <img style="border-radius: 50%;" src="https://github.com/MarcosWinicios.png?s=60&v=4" width="100px;" alt="Marcos Winicios"/>
  <br />
  <sub><b>Marcos Winicios</b></sub></a> <a href="https://github.com/MarcosWinicios" title="Marcos Winicios">🚀</a>
  <br />
